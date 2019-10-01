@@ -1,0 +1,17 @@
+
+
+.mainLogo{
+    background-image: url("https://sterillium.info/-/media/disinfection/sterillium/img/why-hand-hygiene-programmes/hand-disinfection-today/sterillium-hand-disinfection-today-stage.jpg?la=en&h=725&w=1440&mw=1440&hash=2422CFB5B0957EED31CADFC6FF5C163ECD9F4DEF");
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer{
+    padding: 70px 200px;
+    background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

@@ -1,0 +1,5 @@
+{
+    "database": "postgres://alex:alex@localhost:5432/intercoop",
+    "logging": false
+	
+}

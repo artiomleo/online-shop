@@ -1,0 +1,31 @@
+
+.registerLink{
+    display: inline-block;
+    width: 40%;
+    padding: 0 0 30px 20px;
+}
+
+.loginWrapper{
+    color:white;
+    cursor: pointer;
+}
+
+.loginIcon {
+    cursor: pointer;
+      padding: 0 10px;
+}
+
+.loginBtn{
+    color: white!important;
+
+}
+
+.registerLinkBtn{
+    text-decoration: underline;
+    color: #3f51b5;
+    cursor: pointer;
+}
+
+.orderFlex{
+    margin :0 30px;
+}

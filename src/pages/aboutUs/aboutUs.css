@@ -1,0 +1,12 @@
+
+
+.aboutUsCard {
+   
+    margin:100px 0;
+    position: relative;
+    padding: 50px;
+    text-align: left;
+    background:linear-gradient(135deg, #fff8f4 30%,#b6dffa 100%);
+    background:-moz-linear-gradient(-70deg, #fff8f4 30%,#b6dffa 100%);
+    background:-webkit-linear-gradient(-70deg, #fff8f4 30%,#b6dffa 100%);
+}

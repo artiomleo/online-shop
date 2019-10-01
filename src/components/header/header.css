@@ -1,0 +1,6 @@
+
+.Grid1{
+    direction: row;
+    text-justify :flex-end;
+    align-items:center;
+}

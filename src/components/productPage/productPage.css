@@ -1,0 +1,9 @@
+
+
+
+.cardProduct {
+
+    background:linear-gradient(135deg, #fff8f4 30%,#b6dffa 100%);
+    background:-moz-linear-gradient(-70deg, #fff8f4 30%,#b6dffa 100%);
+    background:-webkit-linear-gradient(-70deg, #fff8f4 30%,#b6dffa 100%);
+}
