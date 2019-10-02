@@ -1,8 +1,19 @@
+![alt text](https://github.com/artiomleo/online-shop/blob/master/models/screenshot_1.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install all modules listed as dependencies in package.json
+
+### `node app.js`
+
+Run backend (PostgreSQL) 
+Credentials in config.json
 
 ### `npm start`
 
